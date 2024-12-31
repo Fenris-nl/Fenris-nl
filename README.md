@@ -48,7 +48,7 @@ I’m enthusiastic about creating meaningful solutions, exploring new technologi
 
 ### Connect With Me
 
-- **LinkedIn**: [Kaan Erdem]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kaan-erdem/))  
+- **LinkedIn**: [Kaan Erdem](https://www.linkedin.com/in/kaan-erdem/) 
 - **Email**: [kaanerdem3@gmail.com](mailto:kaanerdem3@gmail.com)  
 
 I’m always up for new opportunities to collaborate, open-source projects, or just a friendly chat. Don’t hesitate to get in touch!
