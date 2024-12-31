@@ -42,7 +42,7 @@ I’m enthusiastic about creating meaningful solutions, exploring new technologi
 
 ### Projects & Highlights
 
-> Explore my pinned repositories below or check out [all my repositories](https://github.com/fenris-nl?tab=repositories) for more!
+> Explore my pinned repositories below or check out [all my repositories](https://github.com/fenris-nl?tab=repositories) for more! (Most of them are private :( )
 
 ---
 
@@ -58,6 +58,4 @@ I’m always up for new opportunities to collaborate, open-source projects, or j
 _Thanks for stopping by! Make sure to follow and star any repositories that pique your interest. Happy coding!_
 
 ---
-
-> **Optional**: Add a visitor count badge to keep track of profile views!  
 > ![Profile Views](https://komarev.com/ghpvc/?username=fenris-nl&color=blue)
