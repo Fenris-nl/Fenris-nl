@@ -2,7 +2,7 @@
 
 ### About Me
 
-I’m enthusiastic about creating meaningful solutions, exploring new technologies, and writing clean, scalable code. Outside of coding, you’ll catch me [mention a hobby, e.g., hiking with my dog, gaming, or reading sci-fi novels]!
+I’m enthusiastic about creating meaningful solutions, exploring new technologies, and writing clean, scalable code. Outside of coding, you’ll catch me gaming, and reading sci-fi novels]!
 
 ---
 
@@ -12,6 +12,10 @@ I’m enthusiastic about creating meaningful solutions, exploring new technologi
   <!-- Programming Languages -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   
   <!-- Frameworks / Libraries -->
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -22,6 +26,7 @@ I’m enthusiastic about creating meaningful solutions, exploring new technologi
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
 
 ---
 
