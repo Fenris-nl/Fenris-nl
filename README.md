@@ -2,7 +2,7 @@
 
 ### About Me
 
-I’m enthusiastic about creating meaningful solutions, exploring new technologies, and writing clean, scalable code. Outside of coding, you’ll catch me gaming, and reading sci-fi novels]!
+I’m enthusiastic about creating meaningful solutions, exploring new technologies, and writing clean, scalable code. Outside of coding, you’ll catch me gaming, and reading sci-fi novels!
 
 ---
 
@@ -47,7 +47,7 @@ I’m enthusiastic about creating meaningful solutions, exploring new technologi
 
 ### Projects & Highlights
 
-> Explore my pinned repositories below or check out [all my repositories](https://github.com/fenris-nl?tab=repositories) for more! (Most of them are private :( )
+> Explore my pinned repositories below or check out [all my repositories](https://github.com/fenris-nl?tab=repositories) for more! (Most of them are private c:)
 
 ---
 
