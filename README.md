@@ -1,65 +1,79 @@
-## Hey there, I'm fenris-nl! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# 👋 Hey there, I'm Fenris! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### About Me
+### 🚀 Full-Stack Developer & Tech Enthusiast
 
-I’m enthusiastic about creating meaningful solutions, exploring new technologies, and writing clean, scalable code. Outside of coding, you’ll catch me gaming, and reading sci-fi novels!
-
----
-
-### Skills & Tools
-
-<p>
-  <!-- Programming Languages -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  
-  <!-- Frameworks / Libraries -->
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  
-  <!-- Tools / Platforms -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
+I'm passionate about crafting robust solutions and exploring cutting-edge technologies. When I'm not coding, you'll find me conquering virtual worlds in games or diving into epic sci-fi universes through books!
 
 ---
 
-### GitHub Stats & Activity
+## 🛠️ Tech Stack
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### **Frameworks & Libraries**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
   
-  <!-- GitHub Stats -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fenris-nl&show_icons=true&theme=default" alt="fenris-nl's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenris-nl&layout=compact&theme=default" alt="fenris-nl's Top Languages" />
+  <a href="https://github.com/fenris-nl">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fenris-nl&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenris-nl&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
+  </a>
   
-  <!-- Streak Stats -->
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=fenris-nl&theme=default" alt="fenris-nl's GitHub Streak" />
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fenris-nl&theme=radical&hide_border=true&fire=DD472B)
 
 </div>
 
 ---
 
-### Projects & Highlights
+## 🔥 Featured Projects
 
-> Explore my pinned repositories below or check out [all my repositories](https://github.com/fenris-nl?tab=repositories) for more! (Most of them are private c:)
+> **Note:** While most of my work is private, here are some highlights:
 
----
+- **Project Alpha**: [Short Description] *(Private Repository)*  
+- **Mobile App X**: [Brief Features] *(Private Repository)*  
+- **Web Platform Y**: [Key Technologies Used] *(Private Repository)*
 
-### Connect With Me
-
-- **LinkedIn**: [Kaan Erdem](https://www.linkedin.com/in/kaan-erdem/) 
-- **Email**: [kaanerdem3@gmail.com](mailto:kaanerdem3@gmail.com)  
-
-I’m always up for new opportunities to collaborate, open-source projects, or just a friendly chat. Don’t hesitate to get in touch!
+👉 [Explore All Repositories](https://github.com/fenris-nl?tab=repositories)  
+💡 *Interested in seeing private projects? Let's connect!*
 
 ---
 
-_Thanks for stopping by! Make sure to follow and star any repositories that pique your interest. Happy coding!_
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaan-erdem/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kaanerdem3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
-> ![Profile Views](https://komarev.com/ghpvc/?username=fenris-nl&color=blue)
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=fenris-nl&color=blue&style=flat-square)
+  
+  ⚡ **Fun Fact:** I once debugged a production issue while camping in the mountains!  
+  
+  🚧 **Currently Learning:** Cloud Architecture & Advanced DevOps Practices
+
+</div>
