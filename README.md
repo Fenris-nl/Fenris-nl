@@ -42,14 +42,6 @@ I'm passionate about crafting robust solutions and exploring cutting-edge techno
 
 ---
 
-## 🔥 Featured Projects
-
-> **Note:** While most of my work is private, here are some highlights:
-
-- **Project Alpha**: [Short Description] *(Private Repository)*  
-- **Mobile App X**: [Brief Features] *(Private Repository)*  
-- **Web Platform Y**: [Key Technologies Used] *(Private Repository)*
-
 👉 [Explore All Repositories](https://github.com/fenris-nl?tab=repositories)  
 💡 *Interested in seeing private projects? Let's connect!*
 
