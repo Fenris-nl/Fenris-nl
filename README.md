@@ -39,14 +39,6 @@ Results-driven software engineer with expertise in building scalable application
 
 ---
 
-## Professional Experience
-
-- **Current Role** - Company, Duration
-- **Previous Role** - Company, Duration
-- **Earlier Role** - Company, Duration
-
----
-
 ## GitHub Analytics
 
 <div align="center">
