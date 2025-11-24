@@ -8,11 +8,11 @@ I'm an Industrial Engineering and Business Management graduate with a deep passi
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Enterprise-level DevOps practices**
-- 🌱 I’m currently learning **Cloud Architecture & Microservices**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, and Flutter**
-- 📫 How to reach me: **kaanerdem3@gmail.com**
+-  I’m currently working on **Enterprise-level DevOps practices**
+-  I’m currently learning **Cloud Architecture & Microservices**
+-  I’m looking to collaborate on **Open Source Projects**
+-  Ask me about **React, Node.js, and Flutter**
+-  How to reach me: **kaanerdem3@gmail.com**
 
 ---
 
