@@ -1,8 +1,18 @@
-# Kaan Erdem
+# Hi there, I'm Kaan Erdem! 👋
 
-## Full-Stack Developer & Software Engineer
+## 🚀 Full-Stack Developer & Hobbyist
 
-Results-driven software engineer with expertise in building scalable applications and implementing innovative solutions. Focused on clean code, performance optimization, and modern development practices.
+I'm an Industrial Engineering and Business Management graduate with a deep passion for software development. I code for fun and as a hobby, focusing on building scalable applications, writing clean code, and exploring modern development practices.
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Enterprise-level DevOps practices**
+- 🌱 I’m currently learning **Cloud Architecture & Microservices**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, and Flutter**
+- 📫 How to reach me: **kaanerdem3@gmail.com**
 
 ---
 
@@ -33,7 +43,12 @@ Results-driven software engineer with expertise in building scalable application
 
 ---
 
-## Featured Projects
+## 🛠️ Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Project Name** | A brief description of what this project does and the problem it solves. | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) |
+| **Project Name** | A brief description of what this project does and the problem it solves. | ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) |
 
 *For comprehensive portfolio details and access to private repositories, please reach out via LinkedIn or email.*
 
@@ -47,6 +62,12 @@ Results-driven software engineer with expertise in building scalable application
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenris-nl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
   </a>
 </div>
+
+---
+
+## 🎓 Education
+
+- **Industrial Engineering and Business Management** - Windesheim University of Applied Sciences
 
 ---
 
